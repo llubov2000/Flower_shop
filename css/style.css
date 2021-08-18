@@ -1,0 +1,71 @@
+body {
+    width: 1440px;
+    background: #FFFFFF;
+}
+
+.navigate {
+    display: block;
+    margin: 0 auto;
+    width: 1440px;
+    height: 64px;
+    border-top: solid 1px #AE7C78;
+    border-bottom: solid 1px #AE7C78;
+}
+
+.box {
+    display: inline-block;
+    margin: auto;
+    vertical-align: middle;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    text-align: center;
+    color: #AE7C78;
+}
+
+h1 {
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 44px;
+    line-height: 59px;
+    color: #AE7C78;
+}
+
+h2 {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+    color: #AE7C78;
+}
+
+.promo {
+    display: block;
+}
+
+.promo_img {
+    display: inline-block;
+}
+
+.benefit {
+    display: block;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    color: #AE7C78; 
+}
+benefit_box{
+    display: inline-block;
+    weight: 285px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    color: #AE7C78;
+}
