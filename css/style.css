@@ -3,20 +3,13 @@ body {
     background: #FFFFFF;
 }
 
-.navigate {
-    display: block;
+.nav {
+    display: inline-block;
     margin: 0 auto;
     width: 1440px;
     height: 64px;
     border-top: solid 1px #AE7C78;
     border-bottom: solid 1px #AE7C78;
-}
-
-.box {
-    display: inline-block;
-    margin: auto;
-    vertical-align: middle;
-    font-family: Montserrat;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
@@ -34,16 +27,38 @@ h1 {
 }
 
 h2 {
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    color: #AE7C78;
+}
+
+h3 {
     font-family: Montserrat;
     font-style: normal;
-    font-weight: normal;
+    font-weight: 500;
     font-size: 24px;
     line-height: 29px;
     color: #AE7C78;
 }
 
 .promo {
-    display: block;
+    display: inline-block;
+}
+
+.advert {
+    /* Оригинальные свежие букеты с доставкой по всему городу */
+    width: 384px;
+    height: 58px;
+    left: 176px;
+    top: 313px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+    color: #AE7C78;
 }
 
 .promo_img {
@@ -57,9 +72,10 @@ h2 {
     font-weight: normal;
     font-size: 16px;
     line-height: 20px;
-    color: #AE7C78; 
+    color: #AE7C78;
 }
-benefit_box{
+
+benefit_box {
     display: inline-block;
     weight: 285px;
     font-family: Montserrat;
@@ -68,4 +84,9 @@ benefit_box{
     font-size: 16px;
     line-height: 20px;
     color: #AE7C78;
+}
+.footer {
+    width: 1440px;
+    height: 97px;
+    background: #AE7C78;
 }

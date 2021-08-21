@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../Desktop/HTML/Flower_shop"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Flower_shop"
+	}
+}
