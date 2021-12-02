@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Playfair Display', serif;
+    src: url(../fonts/PlayfairDisplay-Black.ttf);
+}
+@font-face {
+    ffont-family: 'Playfair Display', serif;
+    src: url(../fonts/PlayfairDisplay-BlackItalic.ttf) format ("ttf");
+}
+
+@font-face {
+    font-family: font-family: 'Montserrat', sans-serif;;
+    src: url();
+}
